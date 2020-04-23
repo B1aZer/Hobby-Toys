@@ -1,3 +1,3 @@
-# Hobby-Toys
+# HobbyToys
 
-Private repo
+Web site started as hobby that growed into one of the leading brands in the field.
